@@ -6,7 +6,7 @@ public class KOnvertiraj {
 	
 
 	public double VratiFuntiUkg(double kolicina) {
-		return 0;
+		return kolicina * 0.4503;
 
 	}
 
