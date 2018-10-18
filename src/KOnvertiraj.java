@@ -11,7 +11,7 @@ public class KOnvertiraj {
 	}
 
 	public double VratiIncUcm(double kolicina) {
-		return 0;
+		return kolicina*2.54;
 
 	}
 
