@@ -16,7 +16,7 @@ public class KOnvertiraj {
 	}
 
 	public double VratiFuCelzijuse(double kolicina) {
-		return 0;
+		 return kolicina * 0.556;
 
 	}
 
