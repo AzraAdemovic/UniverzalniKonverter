@@ -1,17 +1,18 @@
 
 public class KOnvertiraj {
 	public double VratiKilogramUFunte(double kolicina) {
-		return 0; }
+		return kolicina * 2.20458554;
+	}
 	
 	
 
 	public double VratiFuntiUkg(double kolicina) {
-		return 0;
+		return kolicina / 2.20458554;
 
 	}
 
 	public double VratiIncUcm(double kolicina) {
-		return 0;
+		return kolicina * 2.54;
 
 	}
 
@@ -21,7 +22,7 @@ public class KOnvertiraj {
 	}
 
 	public double VratiCelzijuseuF(double kolicina) {
-		return 0;
+		return kolicina / 0.556;
 
 	}
 
